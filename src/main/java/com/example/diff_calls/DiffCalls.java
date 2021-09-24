@@ -9,5 +9,4 @@ public class DiffCalls {
 	public String diffCalls() {
 		return "Hello World, With RESTfull apis";
 	}
-	
 }
